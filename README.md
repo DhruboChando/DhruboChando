@@ -1,5 +1,9 @@
 # 💫 About Me:
-currently working on Mobile application, <br>currently learning Flutter,<br>looking to collaborate on development projects
+👋 Hi, I'm Dhrubo Chando!<br>
+📱 Currently working on: Mobile application development<br>
+🌱 Currently learning: Flutter<br>
+🤖 Passionate about: Exploring new technologies, AI, and Machine Learning<br>
+🤝 Looking to collaborate on: Exciting development projects<br>
 
 
 ## 🌐 Socials:
